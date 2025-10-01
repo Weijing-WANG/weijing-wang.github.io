@@ -63,6 +63,43 @@
       "highlights": []
     }
   ],
+  "volunteer": [
+    {
+      "organization": "The International Journal of Healthy Space",
+      "position": "Young Editorial Board Member",
+      "startDate": "2024-01-01",
+      "endDate": "2027-12-31",
+      "summary": "Editorial service on healthy space and urban wellbeing."
+    },
+    {
+      "organization": "Environmental Design Research Association (EDRA)",
+      "position": "Young Professional Member",
+      "startDate": "2023-07-01",
+      "endDate": "",
+      "summary": "Professional membership and community engagement."
+    },
+    {
+      "organization": "Sustainable Built Environment Conference 2025 (ETH Zurich)",
+      "position": "Reviewer",
+      "startDate": "2025-03-01",
+      "endDate": "2025-03-31",
+      "summary": "Conference paper reviewer."
+    },
+    {
+      "organization": "CAAD Futures 2025 (University of Hong Kong)",
+      "position": "Reviewer",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-28",
+      "summary": "Conference paper reviewer."
+    },
+    {
+      "organization": "EDRA 56 (Halifax, Canada)",
+      "position": "Reviewer",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-28",
+      "summary": "Conference paper reviewer."
+    }
+  ],
   "projects": [
     {
       "name": "Third Places & Urban Vitality (Singapore)",
@@ -137,43 +174,6 @@
       "summary": "Narrative space system approach to cultural heritage corridors."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "The International Journal of Healthy Space",
-      "position": "Young Editorial Board Member",
-      "startDate": "2024-01-01",
-      "endDate": "2027-12-31",
-      "summary": "Editorial service on healthy space and urban wellbeing."
-    },
-    {
-      "organization": "Environmental Design Research Association (EDRA)",
-      "position": "Young Professional Member",
-      "startDate": "2023-07-01",
-      "endDate": "",
-      "summary": "Professional membership and community engagement."
-    },
-    {
-      "organization": "Sustainable Built Environment Conference 2025 (ETH Zurich)",
-      "position": "Reviewer",
-      "startDate": "2025-03-01",
-      "endDate": "2025-03-31",
-      "summary": "Conference paper reviewer."
-    },
-    {
-      "organization": "CAAD Futures 2025 (University of Hong Kong)",
-      "position": "Reviewer",
-      "startDate": "2025-02-01",
-      "endDate": "2025-02-28",
-      "summary": "Conference paper reviewer."
-    },
-    {
-      "organization": "EDRA 56 (Halifax, Canada)",
-      "position": "Reviewer",
-      "startDate": "2025-02-01",
-      "endDate": "2025-02-28",
-      "summary": "Conference paper reviewer."
-    }
-  ],
   "awards": [
     {
       "title": "Nana Kirk Travel Scholarship",
@@ -198,6 +198,26 @@
       "date": "2013-01-01",
       "awarder": "Yunnan University",
       "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "NLP with Python for Machine Learning",
+      "date": "",
+      "issuer": "LinkedIn Learning",
+      "url": ""
+    },
+    {
+      "name": "Advanced Text Analysis: Topic Modelling with Python",
+      "date": "",
+      "issuer": "University of Edinburgh (CDCS)",
+      "url": ""
+    },
+    {
+      "name": "Text & Data Analysis Summer School 2023",
+      "date": "",
+      "issuer": "University of Edinburgh (CDCS)",
+      "url": ""
     }
   ],
   "skills": [
@@ -239,24 +259,50 @@
       ]
     }
   ],
-  "certificates": [
+  "presentations": [
     {
-      "name": "NLP with Python for Machine Learning",
-      "date": "",
-      "issuer": "LinkedIn Learning",
-      "url": ""
+      "name": "Designing Healthy Urban Spaces in the Digital Era: Unveiling Preferences Through Social Media and Big Data",
+      "publisher": "Sino-UK Bilateral Symposium on Healthy Design, Beijing, China",
+      "releaseDate": "2024-12-01",
+      "summary": "Invited talk / keynote."
     },
     {
-      "name": "Advanced Text Analysis: Topic Modelling with Python",
-      "date": "",
-      "issuer": "University of Edinburgh (CDCS)",
-      "url": ""
+      "name": "Investigating Correlations between Visual Social Media, UGS, and Subjective Wellbeing",
+      "publisher": "EDRA 54",
+      "releaseDate": "2023-06-01",
+      "summary": "Conference presentation."
     },
     {
-      "name": "Text & Data Analysis Summer School 2023",
-      "date": "",
-      "issuer": "University of Edinburgh (CDCS)",
-      "url": ""
+      "name": "Aesthetics of Digital Engagement: Landscape Preference and Everyday Use of Urban Green Space in the Age of Social Media",
+      "publisher": "Exploring Landscape Boundaries Seminars, Estonian University of Life Sciences",
+      "releaseDate": "2022-11-01",
+      "summary": "Seminar presentation."
+    },
+    {
+      "name": "Gaze through social media: Spatio-temporal activities of photo-taking and photo-sharing in the city",
+      "publisher": "OPENspace Research Seminar Series, University of Edinburgh",
+      "releaseDate": "2022-03-01",
+      "summary": "Seminar presentation."
+    }
+  ],
+  "teaching": [
+    {
+      "name": "CDE2501 Liveable Cities (Guest Reviewer)",
+      "publisher": "National University of Singapore",
+      "releaseDate": "2024-04-01",
+      "summary": ""
+    },
+    {
+      "name": "Comparative Studies in Design and Culture (Guest Speaker)",
+      "publisher": "City University of Macau",
+      "releaseDate": "2024-03-01",
+      "summary": ""
+    },
+    {
+      "name": "MSc Dissertation Tutor (Landscape & Wellbeing)",
+      "publisher": "University of Edinburgh",
+      "releaseDate": "2023-06-01",
+      "summary": ""
     }
   ]
 }
