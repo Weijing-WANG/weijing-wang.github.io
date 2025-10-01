@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. “Present Address: Kunming, China.”
+subtitle: "<a href='#'>Affiliations</a>. Present Address: Kunming, China."
 profile:
   align: right
   image: prof_pic.jpg
