@@ -2,11 +2,8 @@
   "basics": {
     "name": "Weijing Wang, PhD",
     "label": "Computational Social Science · Geospatial AI · Urban Sustainability",
-    # "image": "/assets/img/prof_pic.jpg",
     "email": "Wang-weijing@outlook.com",
-   # "phone": "+86 18487251346",
     "url": "https://weijing-wang.github.io/",
-    # "summary": "Postdoctoral researcher focusing on urban vitality, human–environment interaction, and AI-driven spatial analytics. Integrates social media, POI, mobility data, and causal inference for people-centred urban design.",
     "location": {
       "city": "Kunming",
       "region": "Yunnan",
@@ -34,8 +31,7 @@
       "area": "Landscape Architecture",
       "studyType": "PhD",
       "startDate": "2018-01-01",
-      "endDate": "2023-07-31",
-      "thesis": "Landscape Preference and Everyday Use of Urban Green Space in the Age of Social Media: A Case Study of Beijing"
+      "endDate": "2023-07-31"
     },
     {
       "institution": "Yunnan University",
@@ -44,8 +40,7 @@
       "area": "Architecture and Civil Engineering",
       "studyType": "Master of Engineering",
       "startDate": "2014-09-01",
-      "endDate": "2017-07-31",
-      "score": "Average 86.75%"
+      "endDate": "2017-07-31"
     },
     {
       "institution": "Beijing Forestry University",
@@ -54,8 +49,7 @@
       "area": "Landscape Architecture",
       "studyType": "Bachelor of Agriculture",
       "startDate": "2010-09-01",
-      "endDate": "2014-07-31",
-      "score": "Average 85.86%"
+      "endDate": "2014-07-31"
     }
   ],
   "work": [
@@ -71,7 +65,6 @@
   "projects": [
     {
       "name": "Third Places & Urban Vitality (Singapore)",
-      "summary": "Identified vital places for social interaction by integrating mobility (3.9M OD trips), POI, and social media; informing inclusive and resilient urban design.",
       "highlights": ["Causal inference & spatial modeling", "Network and big-data techniques"],
       "startDate": "2023-09-01",
       "endDate": "2024-11-08",
@@ -79,7 +72,6 @@
     },
     {
       "name": "Emotional Responses to Site Planning Layouts",
-      "summary": "Deep learning pipeline linking site-planning patterns with human emotional responses to derive data-driven design strategies.",
       "highlights": ["Computer vision", "Multimodal sentiment analysis"],
       "startDate": "2024-08-01",
       "endDate": "2025-07-31",
@@ -87,7 +79,6 @@
     },
     {
       "name": "Urban Green Space Perception in the Social Media Era",
-      "summary": "Large-scale Flickr analysis (Beijing → 186 cities) using AI/BERTopic to reveal preference patterns and wellbeing links.",
       "highlights": ["BERTopic, CV", "Global dataset"],
       "startDate": "2018-01-01",
       "endDate": "2023-07-31",
