@@ -58,8 +58,9 @@
       "position": "Postdoctoral Researcher in Urban Development and Design",
       "url": "https://fcl.ethz.ch",
       "startDate": "2023-09",
-      "endDate": "2024-11"
-      ]
+      "endDate": "2024-11",
+      "summary": "",
+      "highlights": []
     }
   ],
   "projects": [
@@ -122,7 +123,7 @@
       "summary": "Examines links between childhood place attachment and adult wellbeing."
     },
     {
-      "name": "Research on Ecotourism Carrying Capacity of the “Belt and Road” Heritage Corridor Based on State Space Model",
+      "name": "Research on Ecotourism Carrying Capacity of the Belt and Road Heritage Corridor Based on State Space Model",
       "publisher": "Chinese Landscape Architecture 36:18–23",
       "releaseDate": "2020-01-01",
       "url": "",
@@ -136,7 +137,7 @@
       "summary": "Narrative space system approach to cultural heritage corridors."
     }
   ],
-  "academic services": [
+  "volunteer": [
     {
       "organization": "The International Journal of Healthy Space",
       "position": "Young Editorial Board Member",
@@ -173,73 +174,30 @@
       "summary": "Conference paper reviewer."
     }
   ],
-  "presentations": [
-    {
-      "name": "Designing Healthy Urban Spaces in the Digital Era: Unveiling Preferences Through Social Media and Big Data",
-      "event": "Sino-UK Bilateral Symposium on Healthy Design",
-      "location": "Beijing, China",
-      "date": "2024-12-01",
-      "summary": "Invited talk / keynote."
-    },
-    {
-      "name": "Investigating Correlations between Visual Social Media, UGS, and Subjective Wellbeing",
-      "event": "EDRA 54",
-      "location": "",
-      "date": "2023-06-01",
-      "summary": "Conference presentation."
-    },
-    {
-      "name": "Aesthetics of Digital Engagement: Landscape Preference and Everyday Use of Urban Green Space in the Age of Social Media",
-      "event": "Exploring Landscape Boundaries Seminars, Estonian University of Life Sciences",
-      "location": "",
-      "date": "2022-11-01",
-      "summary": "Seminar presentation."
-    },
-    {
-      "name": "Gaze through social media: Spatio-temporal activities of photo-taking and photo-sharing in the city",
-      "event": "OPENspace Research Seminar Series, University of Edinburgh",
-      "location": "",
-      "date": "2022-03-01",
-      "summary": "Seminar presentation."
-    }
-  ],
-  "teaching experience": [
-    {
-      "institution": "National University of Singapore",
-      "course": "CDE2501 Liveable Cities (Guest Reviewer)",
-      "date": "2024-04-01"
-    },
-    {
-      "institution": "City University of Macau",
-      "course": "Comparative Studies in Design and Culture (Guest Speaker)",
-      "date": "2024-03-01"
-    },
-    {
-      "institution": "University of Edinburgh",
-      "course": "MSc Dissertation Tutor (Landscape & Wellbeing)",
-      "date": "2023-06-01"
-    }
-  ],
   "awards": [
     {
       "title": "Nana Kirk Travel Scholarship",
       "date": "2023-06-01",
-      "awarder": "Environmental Design Research Association (EDRA)"
+      "awarder": "Environmental Design Research Association (EDRA)",
+      "summary": ""
     },
     {
       "title": "Excellent Student Cadre Scholarship",
       "date": "2016-01-01",
-      "awarder": "Yunnan University"
+      "awarder": "Yunnan University",
+      "summary": ""
     },
     {
       "title": "Innovative Design Award",
       "date": "2015-01-01",
-      "awarder": "National Competition of Planning and Design for College Students"
+      "awarder": "National Competition of Planning and Design for College Students",
+      "summary": ""
     },
     {
       "title": "Grade 2 Graduate Student Scholarship",
       "date": "2013-01-01",
-      "awarder": "Yunnan University"
+      "awarder": "Yunnan University",
+      "summary": ""
     }
   ],
   "skills": [
@@ -282,8 +240,23 @@
     }
   ],
   "certificates": [
-    { "name": "NLP with Python for Machine Learning", "issuer": "LinkedIn Learning" },
-    { "name": "Advanced Text Analysis: Topic Modelling with Python", "issuer": "University of Edinburgh (CDCS)" },
-    { "name": "Text & Data Analysis Summer School 2023", "issuer": "University of Edinburgh (CDCS)" }
+    {
+      "name": "NLP with Python for Machine Learning",
+      "date": "",
+      "issuer": "LinkedIn Learning",
+      "url": ""
+    },
+    {
+      "name": "Advanced Text Analysis: Topic Modelling with Python",
+      "date": "",
+      "issuer": "University of Edinburgh (CDCS)",
+      "url": ""
+    },
+    {
+      "name": "Text & Data Analysis Summer School 2023",
+      "date": "",
+      "issuer": "University of Edinburgh (CDCS)",
+      "url": ""
+    }
   ]
 }
