@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 2
+nav_order: 1
 cv_pdf:  # you can also use external links here: example_pdf.pdf
 description: 
 toc:
