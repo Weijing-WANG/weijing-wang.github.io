@@ -7,7 +7,7 @@ layout: default
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
-          <a
+          
             {% if page.cv_pdf contains '://' %}
               href="{{ page.cv_pdf }}"
             {% else %}
@@ -58,7 +58,7 @@ layout: default
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
-          <a
+          
             {% if page.cv_pdf contains '://' %}
               href="{{ page.cv_pdf }}"
             {% else %}
@@ -88,7 +88,11 @@ layout: default
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            {% if data[0] == 'volunteer' %}
+              <h3 class="card-title font-weight-medium">Academic Services</h3>
+            {% else %}
+              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            {% endif %}
             <div>
               {% case data[0] %}
                 {% when 'basics' %}
@@ -113,6 +117,10 @@ layout: default
                   {% include resume/interests.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
+                {% when 'presentations' %}
+                  {% include resume/publications.liquid %}
+                {% when 'teaching' %}
+                  {% include resume/publications.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
