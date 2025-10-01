@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Present Address: Kunming, China.
-
+subtitle: <a href='#'>Affiliations</a>. “Present Address: Kunming, China.”
 profile:
   align: right
   image: prof_pic.jpg
@@ -11,9 +10,9 @@ profile:
   more_info: >
     <p>Postdoctoral Researcher</p>
     <p>Future Cities Lab Global</p>
-
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
