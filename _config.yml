@@ -445,19 +445,19 @@ third_party_libraries:
         library: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/dist/echarts.min.js"
         dark_theme: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/theme/dark-fresh-cut.js"
     version: "5.5.0"
-google_fonts:
-  url:
-    fonts: "https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
-  highlightjs:
-    integrity:
-      css:
-        light: "sha256-Oppd74ucMR5a5Dq96FxjEzGF7tTw2fZ/6ksAqDCM8GY="
-        dark: "sha256-nyCNAiECsdDHrr/s2OQsp5l9XeY2ZJ0rMepjCT2AkBk="
+  google_fonts:
     url:
-      css:
-        light: "https://cdn.jsdelivr.net/npm/highlight.js@{{version}}/styles/github.min.css"
-        dark: "https://cdn.jsdelivr.net/npm/highlight.js@{{version}}/styles/github-dark.min.css"
-    version: "11.9.0"
+      fonts: "https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+    highlightjs:
+      integrity:
+        css:
+          light: "sha256-Oppd74ucMR5a5Dq96FxjEzGF7tTw2fZ/6ksAqDCM8GY="
+          dark: "sha256-nyCNAiECsdDHrr/s2OQsp5l9XeY2ZJ0rMepjCT2AkBk="
+      url:
+        css:
+          light: "https://cdn.jsdelivr.net/npm/highlight.js@{{version}}/styles/github.min.css"
+          dark: "https://cdn.jsdelivr.net/npm/highlight.js@{{version}}/styles/github-dark.min.css"
+      version: "11.9.0"
   imagesloaded:
     integrity:
       js: "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
