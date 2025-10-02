@@ -25,7 +25,6 @@ body.sticky-bottom-footer {
 .container {
   max-width: $max-content-width;
 }
-
 // Profile
 .profile {
   img {
@@ -34,11 +33,34 @@ body.sticky-bottom-footer {
   // 只修改 about 页面名字的字体
   .author {
     h1 {
-      font-family: 'Merriweather', serif;  // 替换为你想要的字体
+      font-family: 'Merriweather', serif;
       font-weight: 700;
-      font-size: 2.5rem;  // 可选：调整大小
+      font-size: 2.5rem;
       color: #1e3a5f;
     }
+  }
+}
+
+/******************************************************************************
+ * Navbar Social Icons
+ ******************************************************************************/
+.navbar {
+  .navbar-brand.social {
+    margin-right: auto;  // 推到左侧
+    padding-right: 1rem;
+    
+    a {
+      margin: 0 0.25rem;
+      font-size: 1.2rem;
+      
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+  
+  .navbar-nav {
+    margin-left: auto;  // 导航菜单推到右侧
   }
 }
 
