@@ -6,8 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Weijing
 middle_name: 
 last_name: Wang
+email: Wang-weijing@outlook.com  
+github_username: weijing-wang  
+linkedin_username: weijing-wang-41469524a  
+twitter_username:  
+orcid_id:  0009-0003-6535-0378
+scholar_userid:  
 contact_note: >
-  [LinkedIn](https://www.linkedin.com/in/weijing-wang-41469524a)
+  # [LinkedIn](https://www.linkedin.com/in/weijing-wang-41469524a)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal site with CV, blog, and projects.
 footer_text: >
@@ -633,7 +639,7 @@ jsonresume:
   - basics
   - education
   - work
-  - academic services
+  - volunteer 
   - projects
   - publications
   - teaching       # 
