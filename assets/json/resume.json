@@ -174,91 +174,6 @@
       "summary": "Narrative space system approach to cultural heritage corridors."
     }
   ],
-  "awards": [
-    {
-      "title": "Nana Kirk Travel Scholarship",
-      "date": "2023-06-01",
-      "awarder": "Environmental Design Research Association (EDRA)",
-      "summary": ""
-    },
-    {
-      "title": "Excellent Student Cadre Scholarship",
-      "date": "2016-01-01",
-      "awarder": "Yunnan University",
-      "summary": ""
-    },
-    {
-      "title": "Innovative Design Award",
-      "date": "2015-01-01",
-      "awarder": "National Competition of Planning and Design for College Students",
-      "summary": ""
-    },
-    {
-      "title": "Graduate Student Scholarships",
-      "date": "2010-2013",
-      "awarder": "Yunnan University & Beijing Forestry University",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "NLP with Python for Machine Learning",
-      "date": "",
-      "issuer": "LinkedIn Learning",
-      "url": ""
-    },
-    {
-      "name": "Advanced Text Analysis: Topic Modelling with Python",
-      "date": "",
-      "issuer": "University of Edinburgh (CDCS)",
-      "url": ""
-    },
-    {
-      "name": "Text & Data Analysis Summer School 2023",
-      "date": "",
-      "issuer": "University of Edinburgh (CDCS)",
-      "url": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Computational & Data Science",
-      "level": "Advanced",
-      "keywords": [
-        "Python (PyTorch, GNNs, BERTopic, scikit-learn)",
-        "R (tidyverse, spatial analysis)",
-        "Computer Vision (OpenCV)",
-        "Causal Inference (PSM/GPSM, overlap weighting)"
-      ]
-    },
-    {
-      "name": "Spatial Analytics",
-      "level": "Advanced",
-      "keywords": [
-        "GIS (ArcGIS, QGIS)",
-        "Network Analysis",
-        "Mobility Mining (GPS traces)"
-      ]
-    },
-    {
-      "name": "Design & Visualization",
-      "level": "Advanced",
-      "keywords": [
-        "AutoCAD, SketchUp/Rhino (3D)",
-        "Folium, Matplotlib",
-        "Adobe Photoshop/Illustrator"
-      ]
-    },
-    {
-      "name": "Urban Science Methods",
-      "level": "Advanced",
-      "keywords": [
-        "Survey Design",
-        "Thematic Analysis",
-        "Mixed Methods (big data–survey–interview)"
-      ]
-    }
-  ],
   "presentations": [
     {
       "name": "Designing Healthy Urban Spaces in the Digital Era: Unveiling Preferences Through Social Media and Big Data",
@@ -303,6 +218,91 @@
       "publisher": "University of Edinburgh",
       "releaseDate": "2023-06",
       "summary": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nana Kirk Travel Scholarship",
+      "date": "2023-06-01",
+      "awarder": "Environmental Design Research Association (EDRA)",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Student Cadre Scholarship",
+      "date": "2016-01-01",
+      "awarder": "Yunnan University",
+      "summary": ""
+    },
+    {
+      "title": "Innovative Design Award",
+      "date": "2015-01-01",
+      "awarder": "National Competition of Planning and Design for College Students",
+      "summary": ""
+    },
+    {
+      "title": "Graduate Student Scholarships",
+      "date": "2010-2013",
+      "awarder": "Yunnan University & Beijing Forestry University",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computational & Data Science",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "R",
+        "Computer Vision",
+        "Causal Inference"
+      ]
+    },
+    {
+      "name": "Spatial Analytics",
+      "level": "Advanced",
+      "keywords": [
+        "GIS (ArcGIS, QGIS)",
+        "Network Analysis",
+        "Mobility Mining (GPS traces)"
+      ]
+    },
+    {
+      "name": "Design & Visualization",
+      "level": "Advanced",
+      "keywords": [
+        "AutoCAD, SketchUp/Rhino/Unity",
+        "Folium, Matplotlib",
+        "Adobe Photoshop/Illustrator"
+      ]
+    },
+    {
+      "name": "Urban Science Methods",
+      "level": "Advanced",
+      "keywords": [
+        "Survey Design",
+        "Thematic Analysis",
+        "Mixed Methods (big data–survey–interview)"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "NLP with Python for Machine Learning",
+      "date": "",
+      "issuer": "LinkedIn Learning",
+      "url": ""
+    },
+    {
+      "name": "Advanced Text Analysis: Topic Modelling with Python",
+      "date": "",
+      "issuer": "University of Edinburgh (CDCS)",
+      "url": ""
+    },
+    {
+      "name": "Text & Data Analysis Summer School 2023",
+      "date": "",
+      "issuer": "University of Edinburgh (CDCS)",
+      "url": ""
     }
   ]
 }
