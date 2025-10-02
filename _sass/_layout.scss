@@ -30,15 +30,16 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
-  // 只修改 about 页面名字的字体
-  .author {
-    h1 {
-      font-family: 'Merriweather', serif;
-      font-weight: 700;
-      font-size: 2.5rem;
-      color: #1e3a5f;
-    }
-  }
+}
+
+// About 页面名字样式（多个选择器确保生效）
+.about .profile h1,
+.profile .author h1,
+.post-header h1.post-title {
+  font-family: 'Merriweather', serif !important;
+  font-weight: 700 !important;
+  font-size: 2.5rem !important;
+  color: #1e3a5f !important;
 }
 
 /******************************************************************************
@@ -46,7 +47,7 @@ body.sticky-bottom-footer {
  ******************************************************************************/
 .navbar {
   .navbar-brand.social {
-    margin-right: auto;  // 推到左侧
+    margin-right: auto;
     padding-right: 1rem;
     
     a {
@@ -60,7 +61,7 @@ body.sticky-bottom-footer {
   }
   
   .navbar-nav {
-    margin-left: auto;  // 导航菜单推到右侧
+    margin-left: auto;
   }
 }
 
