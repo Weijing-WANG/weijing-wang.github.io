@@ -382,7 +382,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-third-places-amp-urban-vitality",
           title: 'Third Places &amp;amp; Urban Vitality',
-          description: "Investigating the causal relationship between third places and urban vitality in Singapore",
+          description: "Exploring spatial patterns and relationships in Singapore&#39;s urban neighborhoods",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
