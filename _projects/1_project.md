@@ -1,47 +1,38 @@
 ---
 layout: page
 title: Third Places & Urban Vitality
-description: Investigating the causal relationship between third places and urban vitality in Singapore
+description: Exploring spatial patterns and relationships in Singapore's urban neighborhoods
 img: assets/img/vitality-project.jpg
 importance: 1
 category: work
-related_publications: true
+published: true
 ---
 
-## Project Overview
+## Overview
 
-Urban third places—cafes, community centers, and public spaces—serve as vital hubs for social interaction beyond home and work. This research employs spatial modeling and causal inference techniques to understand their impact on neighborhood vitality.
+This ongoing research investigates the role of third places—spaces beyond home and work—in shaping urban neighborhood dynamics in Singapore. The study combines spatial analysis with advanced statistical methods to understand patterns of urban activity.
 
-### Research Questions
+### Research Focus
 
-- How do third places influence foot traffic patterns and economic activity?
-- What spatial configurations maximize their positive impact on urban vitality?
-- Can we identify causal relationships using propensity score matching and overlap weighting?
-
-### Methods
-
-- **Spatial Analysis**: Network analysis of accessibility patterns
-- **Causal Inference**: Propensity score matching (PSM) and generalized propensity score matching (GPSM)
-- **Big Data**: Mobile phone GPS traces and POI data from Singapore
-
-### Key Findings
+The project examines how different types of urban spaces contribute to neighborhood characteristics, using Singapore as a case study. The research integrates multiple data sources to provide a comprehensive understanding of urban spatial relationships.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/vitality-map.jpg" title="Urban vitality heatmap" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/network-analysis.jpg" title="Network analysis" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/singapore-map.jpg" title="Study area" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Urban vitality distribution across Singapore neighborhoods. Right: Spatial network analysis of third places.
+    Study area: Singapore neighborhoods
 </div>
 
-### Impact
+### Status
 
-This research provides evidence-based insights for urban planners and policymakers on optimizing third place distribution to enhance neighborhood vitality and social cohesion.
+**In Progress**
 
-### Publications
+### Institution
 
-Related papers are listed below.
+Future Cities Lab Global, Singapore-ETH Centre, Singapore
+
+---
+
+*More details will be shared upon publication*
