@@ -2,7 +2,7 @@
 layout: page
 title: Third Places & Urban Vitality
 description: Exploring spatial patterns and relationships in Singapore's urban neighborhoods
-img: assets/img/vitality-project.jpg
+img: assets/img/p1_cover.jpg
 importance: 1
 category: work
 published: true
