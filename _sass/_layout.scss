@@ -95,3 +95,18 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 // TODO: redefine projects layout.
+
+/******************************************************************************
+ * Footer styles
+ ******************************************************************************/
+footer.fixed-bottom {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
+  background-color: var(--global-footer-bg-color);
+}
+
+footer.sticky-bottom-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
+  margin-top: 3rem;
+}
