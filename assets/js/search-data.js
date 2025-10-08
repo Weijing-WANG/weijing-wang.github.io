@@ -385,9 +385,9 @@ ninja.data = [{
           description: "Exploring spatial patterns and relationships in Singapore&#39;s urban neighborhoods",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-emotional-cities",
+          title: 'Emotional Cities',
+          description: "Can AI predict how urban spaces make you feel?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
