@@ -29,12 +29,6 @@ We trained deep learning models to predict emotional responses to different site
 
 ---
 
-## The Problem
-
-Urban designers guess. Surveys come too late. We need real-time feedback during the design process.
-
----
-
 ## Our Approach
 
 **Input:** Site planning layouts  
@@ -62,12 +56,6 @@ Urban designers guess. Surveys come too late. We need real-time feedback during 
 <div class="caption">
     AI reveals what works: green space matters more than density, water features boost well-being, open sightlines reduce stress.
 </div>
-
-**Design elements that predict positive emotions:**
-- 🌳 Green space integration
-- 💧 Water feature proximity  
-- 👁️ Visual openness
-- 📏 Human-scale proportions
 
 ---
 
