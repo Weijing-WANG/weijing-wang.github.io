@@ -369,8 +369,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-delivered-an-invited-keynote-at-the-sino-uk-bilateral-symposium-on-healthy-design-in-beijing-sharing-insights-from-analyzing-203-000-social-media-images-across-186-cities-worldwide",
+          title: '🎤 Delivered an invited keynote at the Sino-UK Bilateral Symposium on Healthy Design...',
           description: "",
           section: "News",},{id: "news-new-paper-published-in-caad-futures-2025",
           title: 'New Paper Published in CAAD Futures 2025',
