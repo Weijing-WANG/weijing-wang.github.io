@@ -369,16 +369,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-new-publication-in-land-journal-our-research-uses-street-view-imagery-and-remote-sensing-to-analyze-spatial-drivers-of-urban-industrial-agglomeration-in-shanghai-read-paper",
+          title: 'New publication in Land journal! Our research uses street view imagery and remote...',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-new-publication-in-land-journal-our-research-uses-street-view-imagery-and-remote-sensing-to-analyze-spatial-drivers-of-urban-industrial-agglomeration-in-shanghai-read-paper",
-          title: 'New publication in Land journal! Our research uses street view imagery and remote...',
           description: "",
           section: "News",},{id: "projects-third-places-amp-urban-vitality",
           title: 'Third Places &amp;amp; Urban Vitality',
