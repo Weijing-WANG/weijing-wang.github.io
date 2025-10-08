@@ -8,6 +8,12 @@ category: work
 published: true
 ---
 
+<div style="margin: 2rem 0;">
+  <video width="100%" autoplay loop muted playsinline style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <source src="{{ '/assets/video/singapore_animation.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
+
 ## Overview
 
 This ongoing research investigates the role of third places—spaces beyond home and work—in shaping urban neighborhood dynamics in Singapore. The study combines spatial analysis with advanced statistical methods to understand patterns of urban activity.
@@ -15,15 +21,6 @@ This ongoing research investigates the role of third places—spaces beyond home
 ### Research Focus
 
 The project examines how different types of urban spaces contribute to neighborhood characteristics, using Singapore as a case study. The research integrates multiple data sources to provide a comprehensive understanding of urban spatial relationships.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/singapore-map.jpg" title="Study area" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Study area: Singapore neighborhoods
-</div>
 
 ### Status
 
