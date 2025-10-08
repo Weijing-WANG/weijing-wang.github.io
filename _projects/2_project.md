@@ -5,7 +5,7 @@ description: Can AI predict how urban spaces make you feel?
 img: assets/img/p2_cover.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 ## What makes a place feel good?
