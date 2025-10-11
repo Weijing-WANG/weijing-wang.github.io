@@ -2,7 +2,7 @@
 layout: page
 title: Global Green-Blue Aesthetics
 description: 203K images reveal what makes urban nature shareable
-img: assets/img/p3_cover
+img: assets/img/p3_cover.jpg
 importance: 3
 category: work
 ---
