@@ -73,6 +73,19 @@ We trained deep learning models to predict emotional responses to different site
 
 ---
 
+## Spatial Heterogeneity
+
+<div class="row mt-4">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P2_GWR_Local_Coefficients.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    GWR analysis reveals that the same design factor can have opposite effects in different locations. For example, Simpson Index shows strong negative coefficients (blue) in dense urban cores but positive coefficients (red) in peripheral areas, suggesting context-dependent design strategies are essential.
+</div>
+
+---
+
 <div class="row justify-content-center mt-5">
     <div class="col-md-10">
         <p style="font-size: 0.95rem; color: #6c757d; margin-bottom: 0.5rem;">
