@@ -14,13 +14,11 @@ We trained deep learning models to predict emotional responses to different site
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p2_layout1.jpg" title="High-density layout" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P2_GWR_Local_Coefficients.png" title="Spatial distribution of local coefficients for key continuous variables from the GWR model" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p2_layout2.jpg" title="Green-integrated layout" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p2_layout3.jpg" title="Waterfront layout" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P2_shap_dependence_plots.png" title="Partial dependence plots: (a) Simpson Index; (b) Connectivity Index; (c) Public Transit
+Accessibility; (d) Building form types; (e) Building functional types; (f) Layout patterns." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,12 +32,6 @@ We trained deep learning models to predict emotional responses to different site
 **Input:** Site planning layouts  
 **Model:** Deep learning (PyTorch)  
 **Output:** Emotional response predictions  
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p2_process.jpg" title="AI pipeline" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 ---
 
