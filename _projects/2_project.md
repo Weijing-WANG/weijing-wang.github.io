@@ -37,31 +37,8 @@ Accessibility; (d) Building form types; (e) Building functional types; (f) Layou
 
 ## What We Found
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/p2_heatmap.jpg" title="Emotional heatmap" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/p2_insights.jpg" title="Key insights" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    AI reveals what works: green space matters more than density, water features boost well-being, open sightlines reduce stress.
-</div>
-
----
-
-## Impact
-
-From algorithms to action: our framework now helps designers test emotional impact before construction begins.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p2_tool.jpg" title="Design tool prototype" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Prototype tool: adjust design parameters, see emotional predictions in real-time.
+Open and visually connected spatial forms — such as line-like slabs and symmetrical layouts — tend to evoke more positive emotional responses. In contrast, enclosed, mono-functional, or overly uniform configurations, like transport buildings or enclosed blocks, may limit emotional stimulation and reduce perceived vibrancy.
 </div>
 
 ---
