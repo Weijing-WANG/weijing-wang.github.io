@@ -32,19 +32,6 @@ We trained deep learning models to predict emotional responses to different site
 <div class="caption">
     GWR analysis reveals that the same design factor can have opposite effects in different locations. For example, Simpson Index shows strong negative coefficients (blue) in dense urban cores but positive coefficients (red) in peripheral areas, suggesting context-dependent design strategies are essential.
 </div>
----
-
-## Our Approach
-
-<div class="row justify-content-center mt-3 mb-3">
-    <div class="col-md-8">
-        <p style="font-size: 1.1rem; line-height: 1.8; text-align: center;">
-            <strong>Input:</strong> Site planning layouts<br>
-            <strong>Model:</strong> Deep learning (PyTorch)<br>
-            <strong>Output:</strong> Emotional response predictions
-        </p>
-    </div>
-</div>
 
 ---
 
