@@ -40,6 +40,28 @@ Cities with more "photo-able" green-blue spaces report higher well-being.
 
 ---
 
+## What this means for cities
+
+**For urban planners:**
+- Use social media data as real-time feedback on public space success
+- Prioritize water access—it's the highest-ROI nature investment
+- Design for "shareability" isn't superficial; it indicates genuine appreciation
+
+**For policymakers:**
+- Photo frequency = proxy for cultural ecosystem service value
+- Track changes over time to measure policy impact
+- Different cities need different nature—one size doesn't fit all
+
+**For designers:**
+- "Photo-able" spaces combine:
+  - Water features (primary driver)
+  - Seasonal variation 
+  - Wildlife interaction opportunities 
+  - Architecture + nature integration
+  - Golden hour lighting
+
+---
+
 **Publication:** Wang, W. (2024). *Edinburgh Architecture Research*, 38(2), 49-64.
 
 **Tech:** Python • CV • BERTopic • Flickr API • GIS
