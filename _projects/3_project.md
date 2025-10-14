@@ -7,14 +7,15 @@ importance: 3
 category: work
 ---
 
-<!-- Top: interactive map -->
-<div class="ratio ratio-16x9 mb-4">
+<!-- Full-bleed, full-width map -->
+<div style="position:relative; left:50%; right:50%; margin-left:-50vw; margin-right:-50vw; width:100vw;">
   <iframe
     src="{{ '/assets/html/index.html' | relative_url }}"
     loading="eager"
-    style="border:0; width:100%; height:100%;">
+    style="border:0; display:block; width:100vw; height:80vh;">
   </iframe>
 </div>
+
 
 ## What makes a green space “Instagram-worthy”?
 We analyzed **203,000** social media photos from **186 cities** to learn what people love in urban nature.
