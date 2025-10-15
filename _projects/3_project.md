@@ -7,61 +7,62 @@ importance: 3
 category: work
 ---
 
-## What makes a green space “Instagram-worthy”?
-We analyzed **203,000** social media photos from **186 cities** to learn what people love in urban nature.
+## What makes a green space "Instagram-worthy"?
+
+We analyzed 203,000 social media photographs from 186 cities worldwide to understand global preferences for urban nature.
 
 ---
-
-<div style="width: 100%; height: 600px; margin: 20px 0;">
-  <iframe 
-    src="{{ '/assets/html/global-map.html' | relative_url }}" 
-    width="100%" 
-    height="100%" 
-    frameborder="0" 
-    style="border: 1px solid #ddd; border-radius: 8px;">
-  </iframe>
-</div>
-
----
-
 
 ## The Approach
-- Computer vision + BERTopic NLP  
-- Flickr API, GIS workflows  
-- Global, city-level comparison
+
+**203,000 social media images** 
+**186 cities** 
+**Computer Vision** 
+**BERTopic NLP** 
 
 ---
 
 ## Water wins
-8 of the top 10 most-photographed landscape elements involve **water**.
+
+8 out of 10 most-photographed landscape features involve water.
 
 ---
 
-## Well-being link
-Cities with more “photo-able” green–blue spaces show higher subjective well-being  
-(correlation ≈ **+0.43**; stronger in high-income cities, p < 0.05).
+**The well-being link:**  
+Cities with photo-able green spaces show higher subjective well-being (+0.43 correlation). 
+
+## The happiness equation
+
+Cities with more "photo-able" green-blue spaces report higher well-being.
+
+    In high-income cities: more nature photos = happier residents (p < 0.05). The relationship breaks down in lower-income contexts, suggesting Maslow was right—beauty matters most when basic needs are met.
+</div>
 
 ---
 
-## Design takeaways
-**Planners**
-- Treat social photos as real-time public space feedback.
-- Prioritize **water access**; high ROI for engagement.
-- “Shareability” often signals genuine appreciation.
+## What this means for cities
 
-**Policymakers**
-- Photo frequency ≈ proxy for cultural ecosystem services.
-- Track longitudinal change for policy evaluation.
-- Context matters—avoid one-size-fits-all.
+**For urban planners:**
+- Use social media data as real-time feedback on public space success
+- Prioritize water access—it's the highest-ROI nature investment
+- Design for "shareability" isn't superficial; it indicates genuine appreciation
 
-**Designers**
-- Combine: water features, seasonal variety, wildlife moments,
-  architecture–nature integration, and good lighting.
+**For policymakers:**
+- Photo frequency = proxy for cultural ecosystem service value
+- Track changes over time to measure policy impact
+- Different cities need different nature—one size doesn't fit all
+
+**For designers:**
+- "Photo-able" spaces combine:
+  - Water features (primary driver)
+  - Seasonal variation 
+  - Wildlife interaction opportunities 
+  - Architecture + nature integration
+  - Golden hour lighting
 
 ---
 
-**Publication**  
-Wang, W. (2024). *Edinburgh Architecture Research*, 38(2), 49–64.  
+**Publication:** Wang, W. (2024). *Edinburgh Architecture Research*, 38(2), 49-64.
 
-**Tech**  
-Python • CV • BERTopic • Flickr API • GIS
+**Tech:** Python • CV • BERTopic • Flickr API • GIS
+
