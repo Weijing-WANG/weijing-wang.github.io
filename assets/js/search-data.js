@@ -390,11 +390,6 @@ ninja.data = [{
           description: "Can AI predict how urban spaces make you feel?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-global-green-blue-aesthetics",
-          title: 'Global Green-Blue Aesthetics',
-          description: "203K images reveal what makes urban nature shareable",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
