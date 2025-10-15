@@ -7,14 +7,7 @@ importance: 3
 category: work
 ---
 
-<!-- Full-bleed, full-width map -->
-<div style="position:relative; left:50%; right:50%; margin-left:-50vw; margin-right:-50vw; width:100vw;">
-  <iframe
-    src="{{ '/assets/html/global_map.html' | relative_url }}"
-    loading="eager"
-    style="border:0; display:block; width:100vw; height:80vh;">
-  </iframe>
-</div>
+
 
 
 ## What makes a green space “Instagram-worthy”?
