@@ -9,7 +9,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "weijing-wang/weijing-wang.github.io",
+    "data-repo": "weijing-wang/weijing-wang.github.io_io-archive",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
