@@ -8,13 +8,23 @@ category: work
 published: false7
 ---
 
-
-
-
 ## What makes a green space “Instagram-worthy”?
 We analyzed **203,000** social media photos from **186 cities** to learn what people love in urban nature.
 
 ---
+
+<div style="width: 100%; height: 600px; margin: 20px 0;">
+  <iframe 
+    src="{{ '/assets/html/global-map.html' | relative_url }}" 
+    width="100%" 
+    height="100%" 
+    frameborder="0" 
+    style="border: 1px solid #ddd; border-radius: 8px;">
+  </iframe>
+</div>
+
+---
+
 
 ## The Approach
 - Computer vision + BERTopic NLP  
