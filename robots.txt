@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://weijing-wang.github.io_io-archive/sitemap.xml
+Sitemap: https://weijing-wang.github.io/sitemap.xml

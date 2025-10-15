@@ -122,6 +122,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/vega-lite/";
           
         },
+      },{id: "post-a-post-with-geojson",
+        
+          title: "a post with geojson",
+        
+        description: "this is what included geojson code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/geojson-map/";
+          
+        },
       },{id: "post-a-post-with-echarts",
         
           title: "a post with echarts",
@@ -379,6 +390,11 @@ ninja.data = [{
           description: "Can AI predict how urban spaces make you feel?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-global-green-blue-aesthetics",
+          title: 'Global Green-Blue Aesthetics',
+          description: "203K images reveal what makes urban nature shareable",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
