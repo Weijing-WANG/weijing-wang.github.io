@@ -9,7 +9,7 @@ category: work
 
 Explore the distribution of green-blue spaces across 186 cities worldwide:
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 60%; margin: 30px 0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 80%; margin: 30px 0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   <iframe 
     src="{{ '/assets/html/global-map.html' | relative_url }}" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
